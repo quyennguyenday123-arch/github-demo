@@ -6,9 +6,9 @@
   relign="left" />
     </td>
     <td>
-      Địa Chỉ:
-      Email:
-      Number Phone:
+      Địa Chỉ:<br>
+      Email:<br>
+      Number Phone:<br>
     </td>
   </tr>
 </table>
