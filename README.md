@@ -1,9 +1,10 @@
 <h1>Nguyễn Đăng Quyền</h1>
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/68ffb36f-2b00-4af5-a97d-26aac90718b5" 
-  align="left" />
+<img width="200" height="200" alt="513-5131577_c-programming-language-logo-hd-png-download-removebg-preview" src="https://github.com/user-attachments/assets/d79dedf9-0164-4fb8-9c93-93923e9452d9" 
+  relign="left" />
 <font color="#00FF00">Hello World!</font> <br>
 Name : Nguyen Dang Quyen<br>
 Day : 21/9/2025<br>
+
 
 
 
