@@ -1,7 +1,4 @@
-<h1>Nguyễn Đăng Quyền</h1>
-<table cellspacing="0" cellpadding="5" border="0">
-  <tr>
-    <td>
+
 <h1>Nguyễn Đăng Quyền</h1>
 <table cellspacing="0" cellpadding="5" border="0">
   <tr>
